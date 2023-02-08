@@ -5,16 +5,23 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>All Laws Of Bangladesh</title>
+    <title>All Laws of Bangladesh</title>
+    <!-- favicon -->
+    <link rel="icon" type="image/png" sizes="56x56" href="images/law.ico">
+    <link rel="stylesheet" href="style.css">
+    <!-- google montserrat font -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins:wght@600&display=swap" rel="stylesheet">
+    <!-- bootstrap stylesheet -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
 </head>
 
-<body>
+<body class="bg-dark-subtle">
     <header>
         <nav class="navbar navbar-expand-lg bg-info">
             <div class="container-fluid">
-                <a class="navbar-brand text-white ms-5" href="#">All Laws Of Bangladesh</a>
+                <img class="nav-img"src="/images/law.ico" alt="">
+                <a class="navbar-brand text-white ms-3" href="/">All Laws of Bangladesh</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false"
                     aria-label="Toggle navigation">
@@ -37,13 +44,36 @@
         </nav>
     </header>
     <main>
-        <div class="card text-center mb-3 ms-3 mt-3 bg-info" style="width: 18rem; height: 16rem;">
-            <div class="card-body d-flex align-items-center">
-                <a href="#" class="text-decoration-none text-white fs-1">Common Laws</a>
+        <!-- banner -->
+        <div class="banner-body">
+            <div class="banner-text">
+                <h1>Welcome to <span class="text-info">All Laws of Bangladesh</span></h1>
+                <p>Here you will find all general and latest laws of Bangladesh</p>
+            </div>
+            <div class="banner-img">
+                <img src="/images/law.jpg" alt="">
+            </div>
+        </div>
+        <!-- banner end -->
+        <h1 class="catagory-title">Catagogy of Laws</h1>
+        <div class="row justify-content-evenly w-100">
+            <div class="card text-center mb-3 ms-3 mt-3 bg-info" style="width: 22rem; height: 16rem;">
+                <div class="card-body d-flex align-items-center justify-content-center">
+                    <a href="#" class="text-decoration-none text-white fs-1">General Laws</a>
+                </div>
+            </div>
+            <div class="card text-center mb-3 ms-3 mt-3 bg-info" style="width: 22rem; height: 16rem;">
+                <div class="card-body d-flex align-items-center justify-content-center">
+                    <a href="#" class="text-decoration-none text-white fs-1">Latest Laws</a>
+                </div>
             </div>
         </div>
     </main>
-    <footer class="text-center mt-5 fw-semibold">Copyright @All Laws Of Bangladesh 2023</footer>
+    <footer class="footer">
+        <p class="text-center fw-semibold">Copyright @All Laws Of Bangladesh 2023</p>
+        <p class="text-center">(all data have been taken from google)</p>
+    </footer>
+    <!-- bootstrap scriptsheet -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
         crossorigin="anonymous"></script>

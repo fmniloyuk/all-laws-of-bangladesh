@@ -40,6 +40,10 @@ body {
     margin-top: 200px;
 }
 
+.correction-text {
+    font-size: small;
+}
+
 @media screen and (max-width: 600px) {
     .nav-img {
         width: 7%;

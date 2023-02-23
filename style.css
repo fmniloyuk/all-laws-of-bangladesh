@@ -40,9 +40,21 @@ body {
     margin-top: 200px;
 }
 
+.correction-highlight {
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+    top: -0.4em;
+}
+
 .correction-text {
     font-size: small;
 }
+
+.not-found {
+    margin-top: 300px;
+}
+
 
 @media screen and (max-width: 600px) {
     .nav-img {

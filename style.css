@@ -41,10 +41,12 @@ body {
 }
 
 .correction-highlight {
+    font-size: small;
+    font-weight: bold;
     line-height: 0;
     position: relative;
     vertical-align: baseline;
-    top: -0.4em;
+    top: -0.6em;
 }
 
 .correction-text {

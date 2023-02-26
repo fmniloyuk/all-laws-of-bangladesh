@@ -74,13 +74,8 @@ body {
     }
     
     .banner-img {
-        margin-left: 10px;
+        margin-left: 60px;
         margin-right: 10px;
-    }
-    
-    .banner-img img {
         width: 100%;
-        height: 100%;
-        border-radius: 10px;
     }
 }

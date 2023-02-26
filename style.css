@@ -42,7 +42,7 @@ body {
 
 .correction-highlight {
     font-size: small;
-    font-weight: bold;
+    /* font-weight: bold; */
     line-height: 0;
     position: relative;
     vertical-align: baseline;

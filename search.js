@@ -79,11 +79,11 @@ function openPage() {
     }
 
     if (a === "শিশু আইন, ২০১৩") {
-        window.open("404-not-found.html");
+        window.open("general-laws/sisu-ayin-2013.html");
     }
 
     if (a === "জাতীয় পরিচয় নিবন্ধন আইন, ২০১০") {
-        window.open("404-not-found.html");
+        window.open("general-laws/jatio-porichoi-nibondhon-ayin-2010.html");
     }
 
     if (a === "পুলিশ আইন, ১৮৬১") {

@@ -119,7 +119,7 @@ function openPage() {
     }
 
     if (a === "দ্রুত বিচার ট্রাইব্যুনাল আইন, ২০০২") {
-        window.open("404-not-found.html");
+        window.open("general-laws/druto-bichar-tribrunal-ayin-2002.html");
     }
 
     if (a === "পর্নোগ্রাফি নিয়ন্ত্রণ আইন, ২০১২") {

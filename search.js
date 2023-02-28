@@ -156,7 +156,7 @@ function openPage() {
     }
     
     if (a === "পারিবারিক সহিংসতা (প্রতিরোধ ও সুরক্ষা) আইন, ২০১০") {
-        window.open("404-not-found.html");
+        window.open("latest-laws/paribarik-sohingsota-protikar-o-surokha-ayin-2010.html");
     }
 
     if (a === "দুর্নীতি দমন কমিশন আইন, ২০০৪ (সংশোধন- ২০১৬)") {

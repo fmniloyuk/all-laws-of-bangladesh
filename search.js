@@ -164,7 +164,7 @@ function openPage() {
     }
 
     if (a === "অপরাধ সম্পর্কিত বিষয়ে পারস্পরিক সহায়তা আইন, ২০১২") {
-        window.open("404-not-found.html");
+        window.open("latest-laws/aporadh-somporkito-bishoa-parosparik-sohayota-ayin-2012.html");
     }
 
     if (a === "আদালত অবমাননা আইন, ২০১৩") {

@@ -123,12 +123,12 @@ function openPage() {
     }
 
     if (a === "পর্নোগ্রাফি নিয়ন্ত্রণ আইন, ২০১২") {
-        window.open("404-not-found.html");
+        window.open("general-laws/pornography-niyontron-ayin-2012.html");
     }
 
-    if (a === "মানব পাচার প্রতিরোধ ও দমন আইন, ২০১২") {
-        window.open("404-not-found.html");
-    }
+    // if (a === "মানব পাচার প্রতিরোধ ও দমন আইন, ২০১২") {
+    //     window.open("404-not-found.html");
+    // }
 
     if (a === "এসিড নিয়ন্ত্রণ (সংশোধন) আইন, ২০১০") {
         window.open("404-not-found.html");

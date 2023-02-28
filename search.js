@@ -168,7 +168,7 @@ function openPage() {
     }
 
     if (a === "আদালত অবমাননা আইন, ২০১৩") {
-        window.open("404-not-found.html");
+        window.open("latest-laws/adalot-obomanona-ayin-2013.html");
     }
 
     if (a === "নারী ও শিশু নির্যাতন দমন (সংশোধন- ২০২০)") {

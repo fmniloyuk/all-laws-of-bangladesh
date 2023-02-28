@@ -171,8 +171,8 @@ function openPage() {
         window.open("latest-laws/adalot-obomanona-ayin-2013.html");
     }
 
-    if (a === "নারী ও শিশু নির্যাতন দমন (সংশোধন- ২০২০)") {
-        window.open("404-not-found.html");
+    if (a === "নারী ও শিশু নির্যাতন দমন (সংশোধন) আইন, ২০২০)") {
+        window.open("latest-laws/nari-o-sisu-nirzaton-domon-songsodhon-ayin-2020.html");
     }
 
     if (a === "বিস্ফোরক উপাদানবলী (সংশোধন) আইন, ২০০২") {

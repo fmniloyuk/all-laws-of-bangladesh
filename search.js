@@ -139,7 +139,7 @@ function openPage() {
     }
 
     if (a === "নির্যাতন এবং হেফাজতে মৃত্যু (নিবারণ) আইন, ২০১৩") {
-        window.open("404-not-found.html");
+        window.open("general-laws/nirzaton-abong-hefazote-mrittu-nibaron-ayin-2013.html");
     }
 
     if (a === "পাসপোর্ট আইন, ১৯২০") {

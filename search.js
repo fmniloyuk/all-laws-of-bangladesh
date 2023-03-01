@@ -228,7 +228,7 @@ function openPage() {
     }
 
     if (a === "জাতীয় মানবাধিকার কমিশন আইন, ২০০৯") {
-        window.open("404-not-found.html");
+        window.open("latest-laws/jatio-manobadhikar-komishon-ayin-2009.html");
     }
 
     if (a === "মুসলিম বিবাহ ও তালাক (নিবদ্ধন) বিধিমালা, ২০০৯ (সংশোধনী-২০১১)") {

@@ -212,7 +212,7 @@ function openPage() {
     }
 
     if (a === "পরিবেশ আদালত আইন, ২০১০") {
-        window.open("404-not-found.html");
+        window.open("latest-laws/poribesh-adalot-ayin-2010.html");
     }
 
     if (a === "বাংলাদেশ পরিবেশ সংরক্ষণ আইন, ১৯৯৫ ( সংশোধন) আইন ২০১০") {

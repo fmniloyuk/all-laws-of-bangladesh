@@ -179,7 +179,7 @@ function openPage() {
         window.open("404-not-found.html");
     }
 
-    if (a === "মোবাইল কোর্ট আইন. ২০০৯ ( সংশোধন) আইন ২০১৭") {
+    if (a === "মোবাইল কোর্ট আইন. ২০০৯ (সংশোধন) আইন ২০১৭") {
         window.open("404-not-found.html");
     }
 
@@ -195,8 +195,8 @@ function openPage() {
         window.open("latest-laws/daoyal-likhon-o-poster-lagano-niyontron-ayin-2012.html");
     }
 
-    if (a === "ইট প্রস্তুত ও ভাটা স্থাপন ( নিয়ন্ত্রণ) আইন, ২০১৩") {
-        window.open("404-not-found.html");
+    if (a === "ইট প্রস্তুত ও ভাটা স্থাপন (নিয়ন্ত্রণ) আইন, ২০১৩") {
+        window.open("latest-laws/ett-prostut-o-vata-sthapon-niyontron-ayin-2013.html");
     }
 
     if (a === "পিতা-মাতার ভরণ-পোষণ আইন, ২০১৩") {

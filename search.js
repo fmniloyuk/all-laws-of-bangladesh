@@ -187,8 +187,8 @@ function openPage() {
         window.open("404-not-found.html");
     }
 
-    if (a === "ভোক্ত-অধিকার সংরক্ষণ আইন, ২০০৯") {
-        window.open("404-not-found.html");
+    if (a === "ভোক্তা অধিকার সংরক্ষণ আইন, ২০০৯") {
+        window.open("latest-laws/vokta-odhikar-songrokhon-ayin-2009.html");
     }
 
     if (a === "দেওয়াল লিখন ও পোস্টার লাগানো (নিয়ন্ত্রন) আইন, ২০১২") {

@@ -219,8 +219,8 @@ function openPage() {
         window.open("404-not-found.html");
     }
 
-    if (a === "মাতৃদুগ্ধ বিকল্প, শিশু খাদ্য, বাণিজ্যিকভাবে প্রস্তুতকৃত শিশুর বাড়তি খাদ্য ও উহা ব্যবহারের সারঞ্জামাদি (বিপণন নিয়ন্ত্রণ) আইন, ২০১৩") {
-        window.open("404-not-found.html");
+    if (a === "মাতৃদুগ্ধ বিকল্প, শিশু খাদ্য, বাণিজ্যিকভাবে প্রস্ত্ততকৃত শিশুর বাড়তি খাদ্য ও উহা ব্যবহারের সরঞ্জামাদি (বিপণন নিয়ন্ত্রণ) আইন, ২০১৩") {
+        window.open("latest-laws/matridugdho-bikolpo-sisu-khaddo-banijjikvabe-prostutkrito-sisur-barti-khaddo-o-uha-baboharer-sonjamadi-biponon-niyontron-ayin-2013.html");
     }
 
     if (a === "রেলওয়ে আইন, ১৮৯০") {

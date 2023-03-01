@@ -191,8 +191,8 @@ function openPage() {
         window.open("latest-laws/vokta-odhikar-songrokhon-ayin-2009.html");
     }
 
-    if (a === "দেওয়াল লিখন ও পোস্টার লাগানো (নিয়ন্ত্রন) আইন, ২০১২") {
-        window.open("404-not-found.html");
+    if (a === "দেওয়াল লিখন ও পোস্টার লাগানো (নিয়ন্ত্রণ) আইন, ২০১২") {
+        window.open("latest-laws/daoyal-likhon-o-poster-lagano-niyontron-ayin-2012.html");
     }
 
     if (a === "ইট প্রস্তুত ও ভাটা স্থাপন ( নিয়ন্ত্রণ) আইন, ২০১৩") {

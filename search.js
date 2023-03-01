@@ -200,7 +200,7 @@ function openPage() {
     }
 
     if (a === "পিতা-মাতার ভরণ-পোষণ আইন, ২০১৩") {
-        window.open("404-not-found.html");
+        window.open("latest-laws/pita-matar-voron-pochon-ayin-2013.html");
     }
 
     if (a === "ধুমপান ও তামাকজাত দ্রব্যের ব্যবহার ( নিয়ন্ত্রণ) আইন- ২০০৫( সংশোধন) ২০১৩") {

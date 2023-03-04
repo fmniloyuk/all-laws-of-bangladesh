@@ -207,7 +207,7 @@ function openPage() {
     }
 
     if (a === "আদালত কর্তৃক তথ্য-প্রযুক্তি ব্যবহার আইন, ২০২০") {
-        window.open("404-not-found.html");
+        window.open("general-laws/adalot-kotrik-projukti-babohar-ayin-2020.html");
     }
 
     if (a === "কোম্পানী (সংশোধন) আইন, ২০২০") {

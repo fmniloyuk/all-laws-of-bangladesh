@@ -149,6 +149,205 @@ function openPage() {
     if (a === "বাংলাদেশ পাসপোর্ট আদেশ, ১৯৭৩") {
         window.open("404-not-found.html");
     }
+    
+    if (a === "বাংলাদেশ স্ট্যান্ডার্ডস এন্ড টেস্টিং ইনস্টিটিউশন আইন, ২০১৮") {
+        window.open("general-laws/bangladesh-standers-and-testing-institution-ayin-2018.html");
+    }
+
+    if (a === "ওজন ও পরিমাপ মানদণ্ড আইন, ২০১৮") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "অর্থ ঋণ আদালত আইন, ২০০৩ (সংশোধন-২০১০)") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "বৈদেশিক কর্মসংস্থান ও অভিবাসী আইন, ২০১৩") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "পাবলিক পরীক্ষা (অপরাধ) আইন, ১৯৮০") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "পাসপোর্ট বিধিমালা, ১৯৫৫") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "ডিজিটাল নিরাপত্তা বিধিমালা, ২০২০") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "বাংলাদেশ সড়ক পরিবহণ কর্পোরেশন আইন, ২০২০") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "মাদকদ্রব্য লাইসেন্স ও পারমিট ফিস (সংশোধনী), ২০২০") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "নৌ-পুলিশ বিধিমালা, ২০২০") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "বৈদেশিক কর্মসংস্থান ও অভিবাসী (রিক্রুটিং এজেন্ট শ্রেণিবিভাগ) বিধিমালা, ২০২০") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "এন্টি টেররিজম ইউনিট বিধিমালা, ২০১৯") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "সরকারি কর্মচারী (নিয়মিত উপস্থিতি) বিধিমালা, ২০১৯") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "ট্যুরিস্ট পুলিশ বিধিমালা, ২০২০") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "আদালত কর্তৃক তথ্য-প্রযুক্তি ব্যবহার আইন, ২০২০") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "কোম্পানী (সংশোধন) আইন, ২০২০") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "রেজিস্ট্রেশন ফিসের তালিকা (নতুন, ২০২০)") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "আইন-শৃঙ্খলা বিঘ্নকারী অপরাধ (দ্রুত বিচার) আইন, ২০০২") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "বিস্ফোরক উপাদানাবলি আইন, ১৯০৮ (সংশোধন- ২০০২)") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "বিশেষ ক্ষমতা আইন, ১৯৭৪") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "মাদক দ্রব্য নিয়ন্ত্রণ (লাইসেন্স ও পারমিট ফিস) বিধিমালা, ২০১৪") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "গৃহকর্মী সুরক্ষা ও কল্যাণ নীতি, ২০১৫") {
+        window.open("404-not-found.html");
+    }
+    
+    if (a === "সড়ক পরিবহন আইন, ২০১৮") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "সন্ত্রাস বিরোধী আইন, ২০০৯ (সংশোধন-২০১৩)") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "বাল্যবিবাহ নিরোধ আইন, ২০১৭") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "বাল্যবিবাহ নিরোধ বিধিমালা, ২০১৮") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "এসিড অপরাধ দমন আইন, ২০০২") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "ডিঅক্সিরাইবোনিউক্লিক এসিড (ডিএনএ) আইন, ২০১৪") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "ঢাকা মেট্রোপলিটন পুলিশ (অধঃস্তন কর্মকর্তাদের শৃঙ্খলা ও আপিল) বিধিমালা, ২০০৬") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "ব্যাংকার বহি সাক্ষ্য আইন, ২০২১") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "ঢাকা বিদ্যুৎ বিতরণ কর্তৃপক্ষ আইন, ১৯৯০") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "বাড়ী ভাড়া নিয়ন্ত্রণ আইন, ১৯৯১") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "নির্বাচন কর্মকর্তা (বিশেষ বিধান) আইন, ১৯৯১") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "অর্থ আইন, ১৯৯১") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "বেসরকারী শিক্ষা প্রতিষ্ঠান শিক্ষক ও কর্মচারী কল্যাণ ট্রাষ্ট আইন, ১৯৯০") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "জাতীয় বিশ্ববিদ্যালয় আইন, ১৯৯২") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "গণভোট আইন, ১৯৯১") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "খনি ও খনিজ সম্পদ (নিয়ন্ত্রণ ও উন্নয়ন) আইন, ১৯৯২") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "বাংলাদেশ উন্মুক্ত বিশ্ববিদ্যালয় আইন, ১৯৯২") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "বাংলাদেশ ট্রেড এন্ড ট্যারিফ কমিশন আইন, ১৯৯২") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "জাতীয় স্থানীয় সরকার ইনষ্টিটিউট আইন, ১৯৯২") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "রাষ্ট্রপতি নির্বাচন আইন, ১৯৯১") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "বাংলাদেশ পরিবেশ সংরক্ষণ আইন, ১৯৯৫") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "আনসার বাহিনী আইন, ১৯৯৫") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "গ্রাম প্রতিরক্ষা দল আইন, ১৯৯৫") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "পানি সরবরাহ ও পয়ঃনিষ্কাশন কর্তৃপক্ষ আইন, ১৯৯৬") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "বিমান-নিরাপত্তা বিরোধী অপরাধ দমন আইন, ১৯৯৭") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "দেউলিয়া বিষয়ক আইন, ১৯৯৭") {
+        window.open("404-not-found.html");
+    }
+
+    if (a === "আইন কমিশন আইন, ১৯৯৬") {
+        window.open("404-not-found.html");
+    }
+    if (a === "পানি সরবরাহ ও পয়ঃনিষ্কাশন কর্তৃপক্ষ আইন, ১৯৯৬") {
+        window.open("404-not-found.html");
+    }
 
     // latest laws
     if (a === "আইন-শৃঙ্খলা বিঘ্নকারী অপরাধ (দ্রুত বিচার) (সংশোধন) আইন, ২০১৮") {

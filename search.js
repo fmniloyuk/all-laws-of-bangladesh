@@ -155,7 +155,7 @@ function openPage() {
     }
 
     if (a === "ওজন ও পরিমাপ মানদণ্ড আইন, ২০১৮") {
-        window.open("404-not-found.html");
+        window.open("general-laws/ojon-o-porimap-mrittudondo-ayin-2018.html");
     }
 
     if (a === "অর্থ ঋণ আদালত আইন, ২০০৩ (সংশোধন-২০১০)") {

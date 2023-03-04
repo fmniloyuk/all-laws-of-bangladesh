@@ -219,7 +219,7 @@ function openPage() {
     }
 
     if (a === "আইন-শৃঙ্খলা বিঘ্নকারী অপরাধ (দ্রুত বিচার) আইন, ২০০২") {
-        window.open("404-not-found.html");
+        window.open("general-laws/ayin-sringkhola-bighnokari-aporadh-druto-bichar-ayin-2002.html");
     }
 
     if (a === "বিস্ফোরক উপাদানাবলি আইন, ১৯০৮ (সংশোধন- ২০০২)") {

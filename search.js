@@ -178,8 +178,8 @@ function openPage() {
         window.open("404-not-found.html");
     }
 
-    if (a === "বাংলাদেশ সড়ক পরিবহণ কর্পোরেশন আইন, ২০২০") {
-        window.open("404-not-found.html");
+    if (a === "বাংলাদেশ সড়ক পরিবহণ কর্পোরেশন আইন, ২০২০") {
+        window.open("general-laws/bangladesh-sorok-poribohon-corporation-ayin-2020.html");
     }
 
     if (a === "মাদকদ্রব্য লাইসেন্স ও পারমিট ফিস (সংশোধনী), ২০২০") {

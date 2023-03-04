@@ -163,7 +163,7 @@ function openPage() {
     }
 
     if (a === "বৈদেশিক কর্মসংস্থান ও অভিবাসী আইন, ২০১৩") {
-        window.open("404-not-found.html");
+        window.open("general-laws/boideshik-kormosongsthan-o-ovibashi-ayin-2013.html");
     }
 
     if (a === "পাবলিক পরীক্ষা (অপরাধ) আইন, ১৯৮০") {

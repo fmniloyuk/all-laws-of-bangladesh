@@ -267,7 +267,7 @@ function openPage() {
     }
 
     if (a === "ব্যাংকার বহি সাক্ষ্য আইন, ২০২১") {
-        window.open("404-not-found.html");
+        window.open("general-laws/banker-bohi-sakho-ayin-2021.html");
     }
 
     if (a === "ঢাকা বিদ্যুৎ বিতরণ কর্তৃপক্ষ আইন, ১৯৯০") {

@@ -255,7 +255,7 @@ function openPage() {
     }
 
     if (a === "এসিড অপরাধ দমন আইন, ২০০২") {
-        window.open("404-not-found.html");
+        window.open("general-laws/acid-aporadh-domon-ayin-2002.html");
     }
 
     if (a === "ডিঅক্সিরাইবোনিউক্লিক এসিড (ডিএনএ) আইন, ২০১৪") {

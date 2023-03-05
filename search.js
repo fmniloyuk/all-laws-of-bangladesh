@@ -247,7 +247,7 @@ function openPage() {
     }
 
     if (a === "বাল্যবিবাহ নিরোধ আইন, ২০১৭") {
-        window.open("404-not-found.html");
+        window.open("general-laws/ballobibaho-nirodh-ayin-2017.html");
     }
 
     if (a === "বাল্যবিবাহ নিরোধ বিধিমালা, ২০১৮") {

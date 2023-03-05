@@ -271,7 +271,7 @@ function openPage() {
     }
 
     if (a === "ঢাকা বিদ্যুৎ বিতরণ কর্তৃপক্ষ আইন, ১৯৯০") {
-        window.open("404-not-found.html");
+        window.open("general-laws/dhaka-biddut-bitoron-kotripokho-ayin-1990.html");
     }
 
     if (a === "বাড়ী ভাড়া নিয়ন্ত্রণ আইন, ১৯৯১") {

@@ -238,8 +238,8 @@ function openPage() {
         window.open("404-not-found.html");
     }
     
-    if (a === "সড়ক পরিবহন আইন, ২০১৮") {
-        window.open("404-not-found.html");
+    if (a === "সড়ক পরিবহণ আইন, ২০১৮") {
+        window.open("general-laws/sorok-poribohon-ayin-2018.html");
     }
 
     if (a === "সন্ত্রাস বিরোধী আইন, ২০০৯ (সংশোধন-২০১৩)") {

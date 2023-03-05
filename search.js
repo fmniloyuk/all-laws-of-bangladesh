@@ -259,7 +259,7 @@ function openPage() {
     }
 
     if (a === "ডিঅক্সিরাইবোনিউক্লিক এসিড (ডিএনএ) আইন, ২০১৪") {
-        window.open("404-not-found.html");
+        window.open("general-laws/dioxiribonuclick-acid-dna-ayin-2014.html");
     }
 
     if (a === "ঢাকা মেট্রোপলিটন পুলিশ (অধঃস্তন কর্মকর্তাদের শৃঙ্খলা ও আপিল) বিধিমালা, ২০০৬") {

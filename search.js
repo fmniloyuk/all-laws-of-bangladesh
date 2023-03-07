@@ -283,7 +283,7 @@ function openPage() {
     }
 
     if (a === "অর্থ আইন, ১৯৯১") {
-        window.open("404-not-found.html");
+        window.open("general-laws/ortho-ayin-1991.html");
     }
 
     if (a === "বেসরকারী শিক্ষা প্রতিষ্ঠান শিক্ষক ও কর্মচারী কল্যাণ ট্রাষ্ট আইন, ১৯৯০") {

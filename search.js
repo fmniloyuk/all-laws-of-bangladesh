@@ -279,7 +279,7 @@ function openPage() {
     }
 
     if (a === "নির্বাচন কর্মকর্তা (বিশেষ বিধান) আইন, ১৯৯১") {
-        window.open("404-not-found.html");
+        window.open("general-laws/nirbachon-kormokorta-bishes-bidhan-ayin-1991.html");
     }
 
     if (a === "অর্থ আইন, ১৯৯১") {

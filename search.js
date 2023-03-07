@@ -275,7 +275,7 @@ function openPage() {
     }
 
     if (a === "বাড়ী ভাড়া নিয়ন্ত্রণ আইন, ১৯৯১") {
-        window.open("404-not-found.html");
+        window.open("general-laws/bari-vara-niyontron-ayin-1991.html");
     }
 
     if (a === "নির্বাচন কর্মকর্তা (বিশেষ বিধান) আইন, ১৯৯১") {

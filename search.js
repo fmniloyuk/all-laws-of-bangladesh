@@ -287,7 +287,7 @@ function openPage() {
     }
 
     if (a === "বেসরকারী শিক্ষা প্রতিষ্ঠান শিক্ষক ও কর্মচারী কল্যাণ ট্রাষ্ট আইন, ১৯৯০") {
-        window.open("404-not-found.html");
+        window.open("general-laws/besorkari-sikha-prothistan-sikhok-o-kormochari-kollan-trust-ayin-1990.html");
     }
 
     if (a === "জাতীয় বিশ্ববিদ্যালয় আইন, ১৯৯২") {

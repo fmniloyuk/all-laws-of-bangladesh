@@ -291,7 +291,7 @@ function openPage() {
     }
 
     if (a === "জাতীয় বিশ্ববিদ্যালয় আইন, ১৯৯২") {
-        window.open("404-not-found.html");
+        window.open("general-laws/jatio-bissobiddaloi-ayin-1992.html");
     }
 
     if (a === "গণভোট আইন, ১৯৯১") {

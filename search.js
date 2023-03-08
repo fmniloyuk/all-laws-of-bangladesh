@@ -295,7 +295,7 @@ function openPage() {
     }
 
     if (a === "গণভোট আইন, ১৯৯১") {
-        window.open("404-not-found.html");
+        window.open("general-laws/gonovote-ayin-1991.html");
     }
 
     if (a === "খনি ও খনিজ সম্পদ (নিয়ন্ত্রণ ও উন্নয়ন) আইন, ১৯৯২") {

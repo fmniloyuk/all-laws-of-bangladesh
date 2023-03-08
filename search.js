@@ -311,11 +311,11 @@ function openPage() {
     }
 
     if (a === "জাতীয় স্থানীয় সরকার ইনষ্টিটিউট আইন, ১৯৯২") {
-        window.open("");
+        window.open("general-laws/jatio-sthanio-sorkar-institute-ayin-1992.html");
     }
 
     if (a === "রাষ্ট্রপতি নির্বাচন আইন, ১৯৯১") {
-        window.open("404-not-found.html");
+        window.open("");
     }
 
     if (a === "বাংলাদেশ পরিবেশ সংরক্ষণ আইন, ১৯৯৫") {

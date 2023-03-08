@@ -307,11 +307,11 @@ function openPage() {
     }
 
     if (a === "বাংলাদেশ ট্রেড এন্ড ট্যারিফ কমিশন আইন, ১৯৯২") {
-        window.open("");
+        window.open("general-laws/bangladesh-trade-and-tarief-komishon-ayin-1992.html");
     }
 
     if (a === "জাতীয় স্থানীয় সরকার ইনষ্টিটিউট আইন, ১৯৯২") {
-        window.open("404-not-found.html");
+        window.open("");
     }
 
     if (a === "রাষ্ট্রপতি নির্বাচন আইন, ১৯৯১") {

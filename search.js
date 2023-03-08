@@ -303,7 +303,7 @@ function openPage() {
     }
 
     if (a === "বাংলাদেশ উন্মুক্ত বিশ্ববিদ্যালয় আইন, ১৯৯২") {
-        window.open("404-not-found.html");
+        window.open("general-laws/khoni-o-khonij-sompod-niyontron-o-unnoyon-ayin-1992.html");
     }
 
     if (a === "বাংলাদেশ ট্রেড এন্ড ট্যারিফ কমিশন আইন, ১৯৯২") {

@@ -315,11 +315,11 @@ function openPage() {
     }
 
     if (a === "রাষ্ট্রপতি নির্বাচন আইন, ১৯৯১") {
-        window.open("");
+        window.open("general-laws/rastropoti-nirbachon-ayin-1991.html");
     }
 
     if (a === "বাংলাদেশ পরিবেশ সংরক্ষণ আইন, ১৯৯৫") {
-        window.open("404-not-found.html");
+        window.open("");
     }
 
     if (a === "আনসার বাহিনী আইন, ১৯৯৫") {

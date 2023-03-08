@@ -319,11 +319,11 @@ function openPage() {
     }
 
     if (a === "বাংলাদেশ পরিবেশ সংরক্ষণ আইন, ১৯৯৫") {
-        window.open("");
+        window.open("general-laws/bangladesh-poribesh-songrokhon-ayin-1995.html");
     }
 
     if (a === "আনসার বাহিনী আইন, ১৯৯৫") {
-        window.open("404-not-found.html");
+        window.open("");
     }
 
     if (a === "গ্রাম প্রতিরক্ষা দল আইন, ১৯৯৫") {

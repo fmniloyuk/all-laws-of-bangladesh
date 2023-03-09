@@ -339,14 +339,11 @@ function openPage() {
     }
 
     if (a === "দেউলিয়া বিষয়ক আইন, ১৯৯৭") {
-        window.open("");
+        window.open("general-laws/deulia-bishoyok-ayin-1997.html");
     }
 
     if (a === "আইন কমিশন আইন, ১৯৯৬") {
         window.open("general-laws/ayin-komishon-ayin-1996.html");
-    }
-    if (a === "পানি সরবরাহ ও পয়ঃনিষ্কাশন কর্তৃপক্ষ আইন, ১৯৯৬") {
-        window.open("404-not-found.html");
     }
 
     // latest laws

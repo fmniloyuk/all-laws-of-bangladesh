@@ -323,11 +323,11 @@ function openPage() {
     }
 
     if (a === "আনসার বাহিনী আইন, ১৯৯৫") {
-        window.open("");
+        window.open("general-laws/ansar-bahini-ayin-1995.html");
     }
 
     if (a === "গ্রাম প্রতিরক্ষা দল আইন, ১৯৯৫") {
-        window.open("404-not-found.html");
+        window.open("");
     }
 
     if (a === "পানি সরবরাহ ও পয়ঃনিষ্কাশন কর্তৃপক্ষ আইন, ১৯৯৬") {

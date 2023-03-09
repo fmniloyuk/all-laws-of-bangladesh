@@ -327,11 +327,11 @@ function openPage() {
     }
 
     if (a === "গ্রাম প্রতিরক্ষা দল আইন, ১৯৯৫") {
-        window.open("");
+        window.open("general-laws/gram-protirokha-dol-ayin-1995.html");
     }
 
     if (a === "পানি সরবরাহ ও পয়ঃনিষ্কাশন কর্তৃপক্ষ আইন, ১৯৯৬") {
-        window.open("404-not-found.html");
+        window.open("");
     }
 
     if (a === "বিমান-নিরাপত্তা বিরোধী অপরাধ দমন আইন, ১৯৯৭") {

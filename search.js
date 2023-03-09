@@ -331,11 +331,11 @@ function openPage() {
     }
 
     if (a === "পানি সরবরাহ ও পয়ঃনিষ্কাশন কর্তৃপক্ষ আইন, ১৯৯৬") {
-        window.open("");
+        window.open("general-laws/pani-sorboraho-o-poyongniskashon-kortipokho-ayin-1996.html");
     }
 
     if (a === "বিমান-নিরাপত্তা বিরোধী অপরাধ দমন আইন, ১৯৯৭") {
-        window.open("404-not-found.html");
+        window.open("");
     }
 
     if (a === "দেউলিয়া বিষয়ক আইন, ১৯৯৭") {

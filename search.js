@@ -343,7 +343,7 @@ function openPage() {
     }
 
     if (a === "আইন কমিশন আইন, ১৯৯৬") {
-        window.open("404-not-found.html");
+        window.open("general-laws/ayin-komishon-ayin-1996.html");
     }
     if (a === "পানি সরবরাহ ও পয়ঃনিষ্কাশন কর্তৃপক্ষ আইন, ১৯৯৬") {
         window.open("404-not-found.html");

@@ -335,11 +335,11 @@ function openPage() {
     }
 
     if (a === "বিমান-নিরাপত্তা বিরোধী অপরাধ দমন আইন, ১৯৯৭") {
-        window.open("");
+        window.open("general-laws/biman-nirapotta-birodhi-aporadh-domon-ayin-1997.html");
     }
 
     if (a === "দেউলিয়া বিষয়ক আইন, ১৯৯৭") {
-        window.open("404-not-found.html");
+        window.open("");
     }
 
     if (a === "আইন কমিশন আইন, ১৯৯৬") {

@@ -2,7 +2,7 @@ function openPage() {
     var a = document.getElementById("search").value;
 
     // general laws
-    if (a === "বাংলাদেশের সংবিধান") {
+    if (a === "গণপ্রজাতন্ত্রী বাংলাদেশের সংবিধান") {
         window.open("general-laws/bangladesh-songbidhan.html");
     }
 
@@ -461,6 +461,15 @@ function openPage() {
 
     if (a === "ক্ষুদ্র বিচার বিষয়ক আদালত আইন, ১৮৮৭") {
         window.open("404-not-found.html");
+    }
+
+    if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
+        window.open("404-not-found.html");
+    }
+
+    // english laws
+    if (a === "The Constitution of the People‌‌‍’s Republic of Bangladesh") {
+        window.open("english-laws/the-constitution-of-the-peoples-republic-of-bangladesh.html");
     }
 
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {

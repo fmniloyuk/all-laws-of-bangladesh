@@ -484,6 +484,10 @@ function openPage() {
         window.open("english-laws/the-arms-act-1878.html");
     }
 
+    if (a === "The Hindu Widow's Re-marriage Act, 1856") {
+        window.open("english-laws/the-hindu-widows-remarriage-act-1856.html");
+    }
+
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
         window.open("404-not-found.html");
     }

@@ -492,6 +492,10 @@ function openPage() {
         window.open("english-laws/the-police-act-1861.html");
     }
 
+    if (a === "The Divorce Act, 1869") {
+        window.open("english-laws/the-divorce-act-1869.html");
+    }
+
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
         window.open("404-not-found.html");
     }

@@ -472,6 +472,10 @@ function openPage() {
         window.open("english-laws/the-constitution-of-the-peoples-republic-of-bangladesh.html");
     }
 
+    if (a === "The Specific Relief Act, 1877") {
+        window.open("english-laws/the-specific-relief-act-1877.html");
+    }
+
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
         window.open("404-not-found.html");
     }

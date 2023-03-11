@@ -488,6 +488,10 @@ function openPage() {
         window.open("english-laws/the-hindu-widows-remarriage-act-1856.html");
     }
 
+    if (a === "The Police Act, 1861") {
+        window.open("english-laws/the-police-act-1861.html");
+    }
+
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
         window.open("404-not-found.html");
     }

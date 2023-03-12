@@ -500,6 +500,10 @@ function openPage() {
         window.open("english-laws/the-court-fees-act-1870.html");
     }
 
+    if (a === "The Pensions Act, 1871") {
+        window.open("english-laws/the-pensions-act-1871.html");
+    }
+
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
         window.open("404-not-found.html");
     }

@@ -496,6 +496,10 @@ function openPage() {
         window.open("english-laws/the-divorce-act-1869.html");
     }
 
+    if (a === "The Court-fees Act, 1870") {
+        window.open("english-laws/the-court-fees-act-1870.html");
+    }
+
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
         window.open("404-not-found.html");
     }

@@ -508,6 +508,10 @@ function openPage() {
         window.open("english-laws/the-special-marriage-act-1872.html");
     }
 
+    if (a === "The Survey Act, 1875") {
+        window.open("english-laws/the-survey-act-1975.html");
+    }
+
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
         window.open("404-not-found.html");
     }

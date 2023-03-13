@@ -516,6 +516,10 @@ function openPage() {
         window.open("english-laws/the-easements-act-1882.html");
     }
 
+    if (a === "The Small Cause Courts Act, 1887") {
+        window.open("english-laws/the-small-cause-courts-act-1887.html");
+    }
+
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
         window.open("404-not-found.html");
     }

@@ -532,6 +532,10 @@ function openPage() {
         window.open("english-laws/the-prisoners-act-1900.html");
     }
 
+    if (a === "The Foreign Marriage Act, 1903") {
+        window.open("english-laws/the-foreign-marriage-act-1903.html");
+    }
+
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
         window.open("404-not-found.html");
     }

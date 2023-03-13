@@ -524,6 +524,10 @@ function openPage() {
         window.open("english-laws/the-stamp-act-1899.html");
     }
 
+    if (a === "The Smoke-Nuisances Act, 1905") {
+        window.open("english-laws/the-smoke-nuisances-act-1905.html");
+    }
+
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
         window.open("404-not-found.html");
     }

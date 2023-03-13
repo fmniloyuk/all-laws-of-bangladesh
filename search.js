@@ -536,6 +536,10 @@ function openPage() {
         window.open("english-laws/the-foreign-marriage-act-1903.html");
     }
 
+    if (a === "The Public Demands Recovery Act, 1913 (Bengal Act)") {
+        window.open("english-laws/the-public-demands-recovery-act-1913.html");
+    }
+
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
         window.open("404-not-found.html");
     }

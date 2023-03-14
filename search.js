@@ -544,6 +544,10 @@ function openPage() {
         window.open("english-laws/the-hindu-disposition-of-property-act-1916.html");
     }
 
+    if (a === "The Alluvial Lands Act, 1920") {
+        window.open("english-laws/the-alluvial-lands-act-1920.html");
+    }
+    
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
         window.open("404-not-found.html");
     }

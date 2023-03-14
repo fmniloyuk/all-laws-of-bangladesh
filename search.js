@@ -560,6 +560,10 @@ function openPage() {
         window.open("english-laws/the-partnership-act-1932.html");
     }
 
+    if (a === "The Hindu Women's Rights to Property Act, 1937") {
+        window.open("english-laws/the-hindu-womens-rights-to-property-act-1937.html");
+    }
+
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
         window.open("404-not-found.html");
     }

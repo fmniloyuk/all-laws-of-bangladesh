@@ -572,6 +572,10 @@ function openPage() {
         window.open("english-laws/the-arya-marriage-validation-act-1937.html");
     }
 
+    if (a === "The Drugs Act, 1940") {
+        window.open("english-laws/the-drugs-act-1940.html");
+    }
+
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
         window.open("404-not-found.html");
     }

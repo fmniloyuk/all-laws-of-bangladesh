@@ -580,6 +580,18 @@ function openPage() {
         window.open("english-laws/the-railways-local-authorities-taxation-cat-1941.html");
     }
 
+    if (a === "The Armed Forces (Special Powers) Ordinance, 1942") {
+        window.open("english-laws/the-armed-forces-special-powers-ordinance-1942.html");
+    }
+
+    if (a === "The Income-tax and Excess Profits Tax (Emergency) Ordinance, 1942") {
+        window.open("english-laws/the-income-tax-and-excess-profits-tax-emergency-ordinance-1942.html");
+    }
+
+    if (a === "The Military Stores (Unlawful Possession) Ordinance, 1943") {
+        window.open("english-laws/the-military-stores-unlawful-possession-ordinance-1943.html");
+    }
+
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
         window.open("404-not-found.html");
     }

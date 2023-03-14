@@ -556,6 +556,10 @@ function openPage() {
         window.open("english-laws/the-passport-act-1920.html");
     }
 
+    if (a === "The Partnership Act, 1932") {
+        window.open("english-laws/the-partnership-act-1932.html");
+    }
+
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
         window.open("404-not-found.html");
     }

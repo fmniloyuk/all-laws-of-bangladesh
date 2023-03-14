@@ -568,6 +568,10 @@ function openPage() {
         window.open("english-laws/the-muslim-personal-law-shariat-application-act-1937.html");
     }
 
+    if (a === "The Arya Marriage Validation Act, 1937") {
+        window.open("english-laws/the-arya-marriage-validation-act-1937.html");
+    }
+
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
         window.open("404-not-found.html");
     }

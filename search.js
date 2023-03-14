@@ -576,6 +576,10 @@ function openPage() {
         window.open("english-laws/the-drugs-act-1940.html");
     }
 
+    if (a === "The Railways (Local Authorities' Taxation) Act, 1941") {
+        window.open("english-laws/the-railways-local-authorities-taxation-cat-1941.html");
+    }
+
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
         window.open("404-not-found.html");
     }

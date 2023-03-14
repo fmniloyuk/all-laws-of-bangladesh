@@ -548,6 +548,10 @@ function openPage() {
         window.open("english-laws/the-alluvial-lands-act-1920.html");
     }
     
+    if (a === "The Securities Act, 1920") {
+        window.open("english-laws/the-securities-act-1920.html");
+    }
+
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
         window.open("404-not-found.html");
     }

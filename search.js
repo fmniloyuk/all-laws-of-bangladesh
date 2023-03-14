@@ -540,6 +540,10 @@ function openPage() {
         window.open("english-laws/the-public-demands-recovery-act-1913.html");
     }
 
+    if (a === "The Hindu Disposition of Property Act, 1916") {
+        window.open("english-laws/the-hindu-disposition-of-property-act-1916.html");
+    }
+
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
         window.open("404-not-found.html");
     }

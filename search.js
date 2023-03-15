@@ -608,6 +608,10 @@ function openPage() {
         window.open("english-laws/the-passport-offences-act-1952.html");
     }
 
+    if (a === "The Dangerous Cargoes Act, 1953") {
+        window.open("english-laws/the-dangerous-cargoes-act-1953.html");
+    }
+
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
         window.open("404-not-found.html");
     }

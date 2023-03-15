@@ -596,6 +596,10 @@ function openPage() {
         window.open("english-laws/the-taxation-on-income-investigation-commission-act-1947.html");
     }
 
+    if (a === "The Acquisition of Waste Land Act, 1950 (East Bengal Act)") {
+        window.open("english-laws/the-acquisition-of-waste-land-act-1950.html");
+    }
+
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
         window.open("404-not-found.html");
     }

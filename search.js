@@ -612,6 +612,10 @@ function openPage() {
         window.open("english-laws/the-dangerous-cargoes-act-1953.html");
     }
 
+    if (a === "The Public Investments (Financial Safeguards) Ordinance, 1960") {
+        window.open("english-laws/the-public-investments-financial-safeguards-ordinance-1960.html");
+    }
+
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
         window.open("404-not-found.html");
     }

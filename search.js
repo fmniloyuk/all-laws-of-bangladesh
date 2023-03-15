@@ -592,6 +592,10 @@ function openPage() {
         window.open("english-laws/the-military-stores-unlawful-possession-ordinance-1943.html");
     }
 
+    if (a === "The Taxation on Income (Investigation Commission) Act, 1947") {
+        window.open("english-laws/the-taxation-on-income-investigation-commission-act-1947.html");
+    }
+
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
         window.open("404-not-found.html");
     }

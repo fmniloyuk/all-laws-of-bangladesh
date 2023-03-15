@@ -604,6 +604,10 @@ function openPage() {
         window.open("english-laws/the-army-and-air-force-reserves-act-1950.html");
     }
 
+    if (a === "The Passport (Offences) Act, 1952") {
+        window.open("english-laws/the-passport-offences-act-1952.html");
+    }
+
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
         window.open("404-not-found.html");
     }

@@ -620,6 +620,10 @@ function openPage() {
         window.open("english-laws/the-muslim-family-laws-ordinance-1961.html");
     }
 
+    if (a === "The Antiquities Act, 1968") {
+        window.open("english-laws/the-antiquities-act-1968.html");
+    }
+
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
         window.open("404-not-found.html");
     }

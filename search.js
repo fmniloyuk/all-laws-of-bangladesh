@@ -624,6 +624,10 @@ function openPage() {
         window.open("english-laws/the-antiquities-act-1968.html");
     }
 
+    if (a === "The National Board of Revenue Order, 1972 (President's Order)") {
+        window.open("english-laws/the-national-board-0f-revenue-order-1972.html");
+    }
+
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
         window.open("404-not-found.html");
     }

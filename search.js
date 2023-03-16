@@ -632,6 +632,10 @@ function openPage() {
         window.open("english-laws/the-bangladesh-currency-order-1972.html");
     }
 
+    if (a === "The Bangladesh Insurance (Nationalisation) Order, 1972 (President's Order)") {
+        window.open("english-laws/the-bangladesh-insurance-nationalisation-order-1972.html");
+    }
+
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
         window.open("404-not-found.html");
     }

@@ -648,6 +648,10 @@ function openPage() {
         window.open("english-laws/the-international-crimes-tribunals-act-1973.html");
     }
 
+    if (a === "The Bangladesh Chartered Accountants Order, 1973 (President's Order)") {
+        window.open("english-laws/the-bangladesh-chartered-accountants-order-1973.html");
+    }
+
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
         window.open("404-not-found.html");
     }

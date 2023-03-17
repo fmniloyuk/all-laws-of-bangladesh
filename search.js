@@ -640,6 +640,10 @@ function openPage() {
         window.open("english-laws/the-bangladesh-bank-order-1972.html");
     }
 
+    if (a === "The Bangladesh Transfer of Immovable Property (Temporary Provisions) Order, 1972 (President's Order)") {
+        window.open("english-laws/the-bangladesh-transfer-of-immovable-property-order-1972.html");
+    }
+
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
         window.open("404-not-found.html");
     }

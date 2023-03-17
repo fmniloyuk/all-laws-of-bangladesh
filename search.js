@@ -644,6 +644,10 @@ function openPage() {
         window.open("english-laws/the-bangladesh-transfer-of-immovable-property-order-1972.html");
     }
 
+    if (a === "The International Crimes (Tribunals) Act, 1973") {
+        window.open("english-laws/the-international-crimes-tribunals-act-1973.html");
+    }
+
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
         window.open("404-not-found.html");
     }

@@ -656,6 +656,10 @@ function openPage() {
         window.open("english-laws/the-bangladesh-house-building-finance-corporation-order-1973.html");
     }
 
+    if (a === "The Bangladesh Passport Order, 1973 (President's Order)") {
+        window.open("english-laws/the-bangladesh-passport-order-1973.html");
+    }
+
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
         window.open("404-not-found.html");
     }

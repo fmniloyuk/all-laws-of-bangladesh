@@ -672,6 +672,10 @@ function openPage() {
         window.open("english-laws/the-special-powers-act-1974.html");
     }
 
+    if (a === "The Muslim Marriages and Divorces (Registration) Act, 1974") {
+        window.open("english-laws/the-muslim-marriages-and-divorces-registration-act-1974.html");
+    }
+
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
         window.open("404-not-found.html");
     }

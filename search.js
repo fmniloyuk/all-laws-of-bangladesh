@@ -680,6 +680,10 @@ function openPage() {
         window.open("english-laws/the-bangladesh-petroleum-act-1974.html");
     }
 
+    if (a === "The Pharmacy Ordinance, 1976") {
+        window.open("english-laws/the-pharmacy-ordinance-1976.html");
+    }
+
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
         window.open("404-not-found.html");
     }

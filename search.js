@@ -664,6 +664,10 @@ function openPage() {
         window.open("english-laws/the-bangladesh-national-liberation-struggle-indemnity-order-1973.html");
     }
 
+    if (a === "The Special Police Establishment (Repeal) Act, 1974") {
+        window.open("english-laws/the-special-police-establishment-repeal-act-1974.html");
+    }
+
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
         window.open("404-not-found.html");
     }

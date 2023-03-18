@@ -660,6 +660,10 @@ function openPage() {
         window.open("english-laws/the-bangladesh-passport-order-1973.html");
     }
 
+    if (a === "The Bangladesh National Liberation Struggle (Indemnity) Order, 1973 (President's Order)") {
+        window.open("english-laws/the-bangladesh-national-liberation-struggle-indemnity-order-1973.html");
+    }
+
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
         window.open("404-not-found.html");
     }

@@ -692,6 +692,10 @@ function openPage() {
         window.open("english-laws/the-bangladesh-biman-corporation-ordinance-1977.html");
     }
 
+    if (a === "The Housing and Building Research Institute Ordinance, 1977") {
+        window.open("english-laws/the-housing-and-building-research-institute-ordinance-1977.html");
+    }
+
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
         window.open("404-not-found.html");
     }

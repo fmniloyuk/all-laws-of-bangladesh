@@ -688,6 +688,10 @@ function openPage() {
         window.open("english-laws/the-land-development-tax-ordinance-1976.html");
     }
 
+    if (a === "The Bangladesh Biman Corporation Ordinance, 1977") {
+        window.open("english-laws/the-bangladesh-biman-corporation-ordinance-1977.html");
+    }
+
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
         window.open("404-not-found.html");
     }

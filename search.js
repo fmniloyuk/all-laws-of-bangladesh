@@ -700,6 +700,10 @@ function openPage() {
         window.open("english-laws/the-bangladesh-telegram-and-telephone-board-ordinance-1979.html");
     }
 
+    if (a === "The Drugs (Control) Ordinance, 1982") {
+        window.open("english-laws/the-drug-control-ordinance-1982.html");
+    }
+
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
         window.open("404-not-found.html");
     }

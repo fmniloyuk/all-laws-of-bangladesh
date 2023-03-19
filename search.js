@@ -704,6 +704,10 @@ function openPage() {
         window.open("english-laws/the-drug-control-ordinance-1982.html");
     }
 
+    if (a === "The Bangladesh Nursing Council Ordinance, 1983") {
+        window.open("english-laws/the-bangladesh-nursing-council-ordinance-1983.html");
+    }
+
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
         window.open("404-not-found.html");
     }

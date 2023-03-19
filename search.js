@@ -708,6 +708,10 @@ function openPage() {
         window.open("english-laws/the-bangladesh-nursing-council-ordinance-1983.html");
     }
 
+    if (a === "The Family Courts Ordinance, 1985") {
+        window.open("english-laws/the-family-courts-ordinance-1985.html");
+    }
+
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
         window.open("404-not-found.html");
     }

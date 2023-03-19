@@ -712,6 +712,14 @@ function openPage() {
         window.open("english-laws/the-family-courts-ordinance-1985.html");
     }
 
+    if (a === "The Drugs (Supplementary Provisions) Ordinance, 1986") {
+        window.open("english-laws/the-drugs-supplementary-provisions-ordinance-1986.html");
+    }
+
+    if (a === "The Police (Non-Gazetted Employees) Welfare Fund Ordinance, 1986") {
+        window.open("english-laws/the-police-welfare-fund-ordinance-1986.html");
+    }
+
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
         window.open("404-not-found.html");
     }

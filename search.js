@@ -720,8 +720,8 @@ function openPage() {
         window.open("english-laws/the-police-welfare-fund-ordinance-1986.html");
     }
 
-    if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
-        window.open("404-not-found.html");
+    if (a === "The Public Corporations (Management Co-ordination) Ordinance, 1986") {
+        window.open("english-laws/the-public-corporations-ordinance-1986.html");
     }
     
 

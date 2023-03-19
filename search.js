@@ -696,6 +696,10 @@ function openPage() {
         window.open("english-laws/the-housing-and-building-research-institute-ordinance-1977.html");
     }
 
+    if (a === "The Bangladesh Telegraph and Telephone Board Ordinance, 1979") {
+        window.open("english-laws/the-bangladesh-telegram-and-telephone-board-ordinance-1979.html");
+    }
+
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
         window.open("404-not-found.html");
     }

@@ -346,6 +346,11 @@ function openPage() {
         window.open("general-laws/ayin-komishon-ayin-1996.html");
     }
 
+    if (a === "ব্যাংক-কোম্পানী আইন, ১৯৯১") {
+        window.open("general-laws/bank-company-ayin-1991.html");
+    }
+
+
     // latest laws
     if (a === "আইন-শৃঙ্খলা বিঘ্নকারী অপরাধ (দ্রুত বিচার) (সংশোধন) আইন, ২০১৮") {
         window.open("404-not-found.html");
@@ -466,6 +471,7 @@ function openPage() {
     if (a === "অভিভাবক ও প্রতিপাল্য আইন, ১৮৯০") {
         window.open("404-not-found.html");
     }
+
 
     // english laws
     if (a === "The Constitution of the People‌‌‍’s Republic of Bangladesh") {

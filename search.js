@@ -350,6 +350,10 @@ function openPage() {
         window.open("general-laws/bank-company-ayin-1991.html");
     }
 
+    if (a === "বাংলাদেশ সিকিউরিটিজ অ্যান্ড এক্সচেঞ্জ কমিশন আইন, ১৯৯৩") {
+        window.open("general-laws/bangladesh-security-and-exchange-komishon-ayin-1993.html");
+    }
+
 
     // latest laws
     if (a === "আইন-শৃঙ্খলা বিঘ্নকারী অপরাধ (দ্রুত বিচার) (সংশোধন) আইন, ২০১৮") {

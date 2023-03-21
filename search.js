@@ -354,6 +354,10 @@ function openPage() {
         window.open("general-laws/bangladesh-security-and-exchange-komishon-ayin-1993.html");
     }
 
+    if (a === "সন্ত্রাসমূলক অপরাধ দমন (বিশেষ বিধান) আইন, ১৯৯৪") {
+        window.open("general-laws/sontrashmulok-aporadh-domon-bishes-bidhan-ayin-1994.html");
+    }
+
 
     // latest laws
     if (a === "আইন-শৃঙ্খলা বিঘ্নকারী অপরাধ (দ্রুত বিচার) (সংশোধন) আইন, ২০১৮") {

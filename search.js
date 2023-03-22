@@ -488,6 +488,10 @@ function openPage() {
         window.open("latest-laws/bank-amanot-bima-ayin-2000.html");
     }
 
+    if (a === "জেলা পরিষদ আইন, ২০০০") {
+        window.open("latest-laws/zilla-porishod-ayin-2000.html");
+    }
+
 
     // english laws
     if (a === "The Constitution of the People‌‌‍’s Republic of Bangladesh") {

@@ -358,6 +358,10 @@ function openPage() {
         window.open("general-laws/sontrashmulok-aporadh-domon-bishes-bidhan-ayin-1994.html");
     }
 
+    if (a === "বাংলাদেশ টেলিযোগাযোগ নিয়ন্ত্রণ আইন, ২০০১") {
+        window.open("general-laws/bangladesh-telejogajog-niyontron-ayin-2001.html");
+    }
+
 
     // latest laws
     if (a === "আইন-শৃঙ্খলা বিঘ্নকারী অপরাধ (দ্রুত বিচার) (সংশোধন) আইন, ২০১৮") {

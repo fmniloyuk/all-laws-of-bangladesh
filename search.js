@@ -484,6 +484,10 @@ function openPage() {
         window.open("404-not-found.html");
     }
 
+    if (a === "ব্যাংক আমানত বীমা আইন, ২০০০") {
+        window.open("latest-laws/bank-amanot-bima-ayin-2000.html");
+    }
+
 
     // english laws
     if (a === "The Constitution of the People‌‌‍’s Republic of Bangladesh") {

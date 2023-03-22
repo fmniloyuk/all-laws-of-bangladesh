@@ -492,6 +492,10 @@ function openPage() {
         window.open("latest-laws/zilla-porishod-ayin-2000.html");
     }
 
+    if (a === "কপিরাইট আইন, ২০০০") {
+        window.open("latest-laws/copyright-ayin-2000.html");
+    }
+
 
     // english laws
     if (a === "The Constitution of the People‌‌‍’s Republic of Bangladesh") {

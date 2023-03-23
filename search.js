@@ -370,6 +370,10 @@ function openPage() {
         window.open("general-laws/dhumpan-o-tamakjat-drobbo-babohar-niyontron-ayin-2005.html");
     }
 
+    if (a === "গ্রাম আদালত আইন, ২০০৬") {
+        window.open("general-laws/gram-adalot-ayin-2006.html");
+    }
+
 
     // latest laws
     if (a === "আইন-শৃঙ্খলা বিঘ্নকারী অপরাধ (দ্রুত বিচার) (সংশোধন) আইন, ২০১৮") {

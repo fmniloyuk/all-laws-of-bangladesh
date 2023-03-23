@@ -496,6 +496,10 @@ function openPage() {
         window.open("latest-laws/copyright-ayin-2000.html");
     }
 
+    if (a === "বাংলাদেশ পানি উন্নয়ন বোর্ড আইন, ২০০০") {
+        window.open("latest-laws/bangladesh-pani-wonnoyon-board-ayin-2000.html");
+    }
+
 
     // english laws
     if (a === "The Constitution of the People‌‌‍’s Republic of Bangladesh") {

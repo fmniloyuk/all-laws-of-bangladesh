@@ -362,6 +362,10 @@ function openPage() {
         window.open("general-laws/bangladesh-telejogajog-niyontron-ayin-2001.html");
     }
 
+    if (a === "জন্ম ও মৃত্যু নিবন্ধন আইন, ২০০৪") {
+        window.open("general-laws/jonmo-o-mrittu-nibondhon-ayin-2004.html");
+    }
+
 
     // latest laws
     if (a === "আইন-শৃঙ্খলা বিঘ্নকারী অপরাধ (দ্রুত বিচার) (সংশোধন) আইন, ২০১৮") {

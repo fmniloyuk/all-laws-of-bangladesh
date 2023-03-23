@@ -374,6 +374,10 @@ function openPage() {
         window.open("general-laws/gram-adalot-ayin-2006.html");
     }
 
+    if (a === "কারাগারে আটক সাজাপ্রাপ্ত নারীদের বিশেষ সুবিধা আইন, ২০০৬") {
+        window.open("general-laws/karagare-atok-sajaprapto-narider-bishes-subidha-ayin-2006.html");
+    }
+
 
     // latest laws
     if (a === "আইন-শৃঙ্খলা বিঘ্নকারী অপরাধ (দ্রুত বিচার) (সংশোধন) আইন, ২০১৮") {

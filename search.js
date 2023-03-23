@@ -366,6 +366,10 @@ function openPage() {
         window.open("general-laws/jonmo-o-mrittu-nibondhon-ayin-2004.html");
     }
 
+    if (a === "ধূমপান ও তামাকজাত দ্রব্য ব্যবহার (নিয়ন্ত্রণ) আইন, ২০০৫") {
+        window.open("general-laws/dhumpan-o-tamakjat-drobbo-babohar-niyontron-ayin-2005.html");
+    }
+
 
     // latest laws
     if (a === "আইন-শৃঙ্খলা বিঘ্নকারী অপরাধ (দ্রুত বিচার) (সংশোধন) আইন, ২০১৮") {

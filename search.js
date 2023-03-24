@@ -390,6 +390,10 @@ function openPage() {
         window.open("general-laws/trademark-ayin-2009.html");
     }
 
+    if (a === "বিজ্ঞান ও প্রযুক্তি উন্নয়ন ট্রাস্ট আইন, ২০১১") {
+        window.open("general-laws/biggan-o-projukti-wonnoyon-trust-ayin-2011.html");
+    }
+
 
     // latest laws
     if (a === "আইন-শৃঙ্খলা বিঘ্নকারী অপরাধ (দ্রুত বিচার) (সংশোধন) আইন, ২০১৮") {

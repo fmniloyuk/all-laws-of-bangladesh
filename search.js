@@ -378,6 +378,10 @@ function openPage() {
         window.open("general-laws/karagare-atok-sajaprapto-narider-bishes-subidha-ayin-2006.html");
     }
 
+    if (a === "সন্ত্রাস বিরোধী আইন, ২০০৯") {
+        window.open("general-laws/sontrash-birodhi-ayin-2009.html");
+    }
+
 
     // latest laws
     if (a === "আইন-শৃঙ্খলা বিঘ্নকারী অপরাধ (দ্রুত বিচার) (সংশোধন) আইন, ২০১৮") {

@@ -386,6 +386,10 @@ function openPage() {
         window.open("general-laws/mobile-court-ayin-2009.html");
     }
 
+    if (a === "ট্রেডমার্ক আইন, ২০০৯") {
+        window.open("general-laws/trademark-ayin-2009.html");
+    }
+
 
     // latest laws
     if (a === "আইন-শৃঙ্খলা বিঘ্নকারী অপরাধ (দ্রুত বিচার) (সংশোধন) আইন, ২০১৮") {

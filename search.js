@@ -382,6 +382,10 @@ function openPage() {
         window.open("general-laws/sontrash-birodhi-ayin-2009.html");
     }
 
+    if (a === "মোবাইল কোর্ট আইন, ২০০৯") {
+        window.open("general-laws/mobile-court-ayin-2009.html");
+    }
+
 
     // latest laws
     if (a === "আইন-শৃঙ্খলা বিঘ্নকারী অপরাধ (দ্রুত বিচার) (সংশোধন) আইন, ২০১৮") {

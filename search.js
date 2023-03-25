@@ -406,6 +406,10 @@ function openPage() {
         window.open("general-laws/bangladesh-hotel-o-restora-ayin-2014.html");
     }
 
+    if (a === "মেট্রোরেল আইন, ২০১৫") {
+        window.open("general-laws/metrorail-ayin-2015.html");
+    }
+
 
     // latest laws
     if (a === "আইন-শৃঙ্খলা বিঘ্নকারী অপরাধ (দ্রুত বিচার) (সংশোধন) আইন, ২০১৮") {

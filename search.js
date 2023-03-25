@@ -394,6 +394,10 @@ function openPage() {
         window.open("general-laws/biggan-o-projukti-wonnoyon-trust-ayin-2011.html");
     }
 
+    if (a === "বন্যপ্রাণী (সংরক্ষণ ও নিরাপত্তা) আইন, ২০১২") {
+        window.open("general-laws/bonnoprani-songrokhon-o-nirapotta-ayin-2012.html");
+    }
+
 
     // latest laws
     if (a === "আইন-শৃঙ্খলা বিঘ্নকারী অপরাধ (দ্রুত বিচার) (সংশোধন) আইন, ২০১৮") {

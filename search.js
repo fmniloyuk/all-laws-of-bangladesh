@@ -399,7 +399,11 @@ function openPage() {
     }
 
     if (a === "প্রতিবন্ধী ব্যক্তির অধিকার ও সুরক্ষা আইন, ২০১৩") {
-        window.open("general-laws/bonnoprani-songrokhon-o-nirapotta-ayin-2012.html");
+        window.open("general-laws/protibondhi-bektir-odhikar-o-surokha-ayin-2013.html");
+    }
+
+    if (a === "বাংলাদেশ হোটেল ও রেস্তোরাঁ আইন, ২০১৪") {
+        window.open("general-laws/bangladesh-hotel-o-restora-ayin-2014.html");
     }
 
 

@@ -398,6 +398,10 @@ function openPage() {
         window.open("general-laws/bonnoprani-songrokhon-o-nirapotta-ayin-2012.html");
     }
 
+    if (a === "প্রতিবন্ধী ব্যক্তির অধিকার ও সুরক্ষা আইন, ২০১৩") {
+        window.open("general-laws/bonnoprani-songrokhon-o-nirapotta-ayin-2012.html");
+    }
+
 
     // latest laws
     if (a === "আইন-শৃঙ্খলা বিঘ্নকারী অপরাধ (দ্রুত বিচার) (সংশোধন) আইন, ২০১৮") {

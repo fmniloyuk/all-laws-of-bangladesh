@@ -414,6 +414,10 @@ function openPage() {
         window.open("general-laws/paromanobik-biddut-kendro-ayin-2015.html");
     }
 
+    if (a === "রেলওয়ে নিরাপত্তা বাহিনী আইন, ২০১৬") {
+        window.open("general-laws/railway-nirapotta-ayin-2016.html");
+    }
+
 
     // latest laws
     if (a === "আইন-শৃঙ্খলা বিঘ্নকারী অপরাধ (দ্রুত বিচার) (সংশোধন) আইন, ২০১৮") {

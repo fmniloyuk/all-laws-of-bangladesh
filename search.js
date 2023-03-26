@@ -422,6 +422,10 @@ function openPage() {
         window.open("general-laws/petrolium-ayin-2016.html");
     }
 
+    if (a === "বেসামরিক বিমান চলাচল কর্তৃপক্ষ আইন, ২০১৭") {
+        window.open("general-laws/beshamorik-biman-cholachol-kortipokho-ayin-2017.html");
+    }
+
 
     // latest laws
     if (a === "আইন-শৃঙ্খলা বিঘ্নকারী অপরাধ (দ্রুত বিচার) (সংশোধন) আইন, ২০১৮") {

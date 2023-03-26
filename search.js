@@ -418,6 +418,10 @@ function openPage() {
         window.open("general-laws/railway-nirapotta-ayin-2016.html");
     }
 
+    if (a === "পেট্রোলিয়াম আইন, ২০১৬") {
+        window.open("general-laws/petrolium-ayin-2016.html");
+    }
+
 
     // latest laws
     if (a === "আইন-শৃঙ্খলা বিঘ্নকারী অপরাধ (দ্রুত বিচার) (সংশোধন) আইন, ২০১৮") {

@@ -46,8 +46,12 @@ function openPage() {
         window.open("404-not-found.html");
     }
 
-    if (a === "মাদকদ্রব্য নিয়ন্ত্রন আইন, ২০১৮") {
+    if (a === "মাদকদ্রব্য নিয়ন্ত্রণ আইন, ২০১৮") {
         window.open("general-laws/madokdrobbo-niyontron-ayin-2018.html");
+    }
+
+    if (a === "মাদকদ্রব্য নিয়ন্ত্রণ (সংশোধন) আইন, ২০২০") {
+        window.open("general-laws/madokdrobbo-niyontron-songsodhon-ayin-2020.html");
     }
 
     if (a === "তথ্য ও যোগাযোগ প্রযুক্তি আইন, ২০০৬") {

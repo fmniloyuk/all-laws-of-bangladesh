@@ -430,6 +430,10 @@ function openPage() {
         window.open("general-laws/bangladesh-sorok-poribohon-kortopokho-ayin-2017.html");
     }
 
+    if (a === "বস্ত্র আইন, ২০১৮") {
+        window.open("general-laws/bostro-ayin-2018.html");
+    }
+
 
     // latest laws
     if (a === "আইন-শৃঙ্খলা বিঘ্নকারী অপরাধ (দ্রুত বিচার) (সংশোধন) আইন, ২০১৮") {

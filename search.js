@@ -438,6 +438,10 @@ function openPage() {
         window.open("general-laws/bostro-ayin-2018.html");
     }
 
+    if (a === "মহাসড়ক আইন, ২০২১") {
+        window.open("general-laws/mohasorok-ayin-2021.html");
+    }
+
 
     // latest laws
     if (a === "আইন-শৃঙ্খলা বিঘ্নকারী অপরাধ (দ্রুত বিচার) (সংশোধন) আইন, ২০১৮") {

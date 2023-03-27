@@ -442,6 +442,10 @@ function openPage() {
         window.open("general-laws/mohasorok-ayin-2021.html");
     }
 
+    if (a === "বাংলাদেশ ট্যুর অপারেটর ও ট্যুর গাইড (নিবন্ধন ও পরিচালনা) আইন, ২০২১") {
+        window.open("general-laws/bangladesh-tour-operator-o-tour-guide-ayin-2021.html");
+    }
+
 
     // latest laws
     if (a === "আইন-শৃঙ্খলা বিঘ্নকারী অপরাধ (দ্রুত বিচার) (সংশোধন) আইন, ২০১৮") {

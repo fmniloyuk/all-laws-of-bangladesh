@@ -450,6 +450,10 @@ function openPage() {
         window.open("general-laws/hajj-o-omrah-bebosthapona-ayin-2021.html");
     }
 
+    if (a === "বাংলাদেশ ঋণ সালিসি আইন, ১৯৮৯") {
+        window.open("general-laws/bangladesh-xrin-salishi-ayin-1989.html");
+    }
+
 
     // latest laws
     if (a === "আইন-শৃঙ্খলা বিঘ্নকারী অপরাধ (দ্রুত বিচার) (সংশোধন) আইন, ২০১৮") {

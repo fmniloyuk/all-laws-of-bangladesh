@@ -853,6 +853,10 @@ function openPage() {
     if (a === "The Public Corporations (Management Co-ordination) Ordinance, 1986") {
         window.open("english-laws/the-public-corporations-ordinance-1986.html");
     }
+
+    if (a === "The Code of Civil Procedure, 1908") {
+        window.open("english-laws/the-code-of-civil-procedure-1908.html");
+    }
     
 
     else {

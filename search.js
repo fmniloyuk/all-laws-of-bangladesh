@@ -602,6 +602,14 @@ function openPage() {
         window.open("english-laws/the-constitution-of-the-peoples-republic-of-bangladesh.html");
     }
 
+    if (a === "The Code of Civil Procedure, 1908") {
+        window.open("english-laws/the-code-of-civil-procedure-1908.html");
+    }
+    
+    if (a === "The Evidence Act, 1872") {
+        window.open("english-laws/the-evidence-act-1872.html");
+    }
+
     if (a === "The Specific Relief Act, 1877") {
         window.open("english-laws/the-specific-relief-act-1877.html");
     }
@@ -852,10 +860,6 @@ function openPage() {
 
     if (a === "The Public Corporations (Management Co-ordination) Ordinance, 1986") {
         window.open("english-laws/the-public-corporations-ordinance-1986.html");
-    }
-
-    if (a === "The Code of Civil Procedure, 1908") {
-        window.open("english-laws/the-code-of-civil-procedure-1908.html");
     }
     
 

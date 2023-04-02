@@ -618,6 +618,10 @@ function openPage() {
         window.open("english-laws/the-limitation-act-1908.html");
     }
 
+    if (a === "The Negotiable Instruments Act, 1881") {
+        window.open("english-laws/the-negotiable-instruments-act-1881.html");
+    }
+
     if (a === "The Arms Act, 1878") {
         window.open("english-laws/the-arms-act-1878.html");
     }
@@ -648,6 +652,10 @@ function openPage() {
 
     if (a === "The Survey Act, 1875") {
         window.open("english-laws/the-survey-act-1975.html");
+    }
+
+    if (a === "The Transfer of Property Act, 1882") {
+        window.open("english-laws/the-transfer-of-property-act-1882.html");
     }
 
     if (a === "The Easements Act, 1882") {

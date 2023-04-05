@@ -662,6 +662,10 @@ function openPage() {
         window.open("english-laws/the-easements-act-1882.html");
     }
 
+    if (a === "The Contract Act, 1872") {
+        window.open("english-laws/the-contract-act-1872.html");
+    }
+
     if (a === "The Small Cause Courts Act, 1887") {
         window.open("english-laws/the-small-cause-courts-act-1887.html");
     }

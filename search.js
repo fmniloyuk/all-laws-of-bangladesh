@@ -746,8 +746,16 @@ function openPage() {
         window.open("english-laws/the-taxation-on-income-investigation-commission-act-1947.html");
     }
 
+    if (a === "The Non-Agricultural Tenancy Act, 1949 (East Bengal Act)") {
+        window.open("english-laws/the-non-agricultural-tenacy-act-1949.html");
+    }
+
     if (a === "The Acquisition of Waste Land Act, 1950 (East Bengal Act)") {
         window.open("english-laws/the-acquisition-of-waste-land-act-1950.html");
+    }
+
+    if (a === "The State Acquisition and Tenancy Act, 1950 (East Bengal Act)") {
+        window.open("english-laws/the-state-acquisition-and-tenancy-act-1950.html");
     }
 
     if (a === "The Army and Air Force Reserves Act, 1950") {

@@ -762,6 +762,10 @@ function openPage() {
         window.open("english-laws/the-army-and-air-force-reserves-act-1950.html");
     }
 
+    if (a === "The Army Act, 1952") {
+        window.open("english-laws/the-army-act-1952.html");
+    }
+
     if (a === "The Passport (Offences) Act, 1952") {
         window.open("english-laws/the-passport-offences-act-1952.html");
     }

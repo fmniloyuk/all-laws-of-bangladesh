@@ -770,6 +770,10 @@ function openPage() {
         window.open("english-laws/the-passport-offences-act-1952.html");
     }
 
+    if (a === "The Air Force Act, 1953") {
+        window.open("english-laws/the-air-force-act-1953.html");
+    }
+
     if (a === "The Dangerous Cargoes Act, 1953") {
         window.open("english-laws/the-dangerous-cargoes-act-1953.html");
     }

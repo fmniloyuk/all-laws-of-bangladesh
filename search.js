@@ -786,6 +786,10 @@ function openPage() {
         window.open("english-laws/the-muslim-family-laws-ordinance-1961.html");
     }
 
+    if (a === "The Navy Ordinance, 1961") {
+        window.open("english-laws/the-navy-ordinance-1961.html");
+    }
+
     if (a === "The Antiquities Act, 1968") {
         window.open("english-laws/the-antiquities-act-1968.html");
     }

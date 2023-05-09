@@ -794,6 +794,10 @@ function openPage() {
         window.open("english-laws/the-antiquities-act-1968.html");
     }
 
+    if (a === "The Customs Act, 1969") {
+        window.open("english-laws/the-custom-act-1969.html");
+    }
+
     if (a === "The National Board of Revenue Order, 1972 (President's Order)") {
         window.open("english-laws/the-national-board-0f-revenue-order-1972.html");
     }
@@ -849,6 +853,10 @@ function openPage() {
     if (a === "The Bangladesh Petroleum Act, 1974") {
         window.open("english-laws/the-bangladesh-petroleum-act-1974.html");
     }
+    
+    if (a === "The Dhaka Metropolitan Police Ordinance, 1976") {
+        window.open("english-laws/the-dhaka-metropolitan-police-ordinance-1976.html");
+    }
 
     if (a === "The Pharmacy Ordinance, 1976") {
         window.open("english-laws/the-pharmacy-ordinance-1976.html");
@@ -876,6 +884,10 @@ function openPage() {
 
     if (a === "The Bangladesh Nursing Council Ordinance, 1983") {
         window.open("english-laws/the-bangladesh-nursing-council-ordinance-1983.html");
+    }
+
+    if (a === "The Income-tax Ordinance, 1984") {
+        window.open("english-laws/the-income-tax-ordinance-1984.html");
     }
 
     if (a === "The Family Courts Ordinance, 1985") {

@@ -290,6 +290,10 @@ function openPage() {
         window.open("general-laws/bangladesh-xrin-salishi-ayin-1989.html");
     }
 
+    if (a === "তামাদি আইন, ১৯০৮") {
+        window.open("general-laws/tamadi-ayin-1908.html");
+    }
+
 
     // latest laws
     if (a === "পারিবারিক সহিংসতা (প্রতিরোধ ও সুরক্ষা) আইন, ২০১০") {

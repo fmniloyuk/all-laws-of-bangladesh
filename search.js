@@ -6,6 +6,10 @@ function openPage() {
         window.open("general-laws/bangladesh-songbidhan.html");
     }
 
+    if (a === "তামাদি আইন, ১৯০৮") {
+        window.open("general-laws/tamadi-ayin-1908.html");
+    }
+
     if (a === "নারী ও শিশু নির্যাতন দমন আইন, ২০০০") {
         window.open("general-laws/nari-o-sisu-nirzaton-domon-ayin-2000.html");
     }
@@ -288,10 +292,6 @@ function openPage() {
 
     if (a === "বাংলাদেশ ঋণ সালিসি আইন, ১৯৮৯") {
         window.open("general-laws/bangladesh-xrin-salishi-ayin-1989.html");
-    }
-
-    if (a === "তামাদি আইন, ১৯০৮") {
-        window.open("general-laws/tamadi-ayin-1908.html");
     }
 
 

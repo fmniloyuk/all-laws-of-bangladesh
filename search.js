@@ -394,6 +394,10 @@ function openPage() {
         window.open("english-laws/the-limitation-act-1908.html");
     }
 
+    if (a === "The Bangladesh Legal Practitioner's and Bar Council Order, 1972 (President's Order)") {
+        window.open("english-laws/the-bangladesh-legal-practitioner's-and-bar-council-order-1972.html");
+    }
+
     if (a === "The Negotiable Instruments Act, 1881") {
         window.open("english-laws/the-negotiable-instruments-act-1881.html");
     }

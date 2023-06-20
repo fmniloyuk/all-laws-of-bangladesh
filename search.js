@@ -6,6 +6,10 @@ function openPage() {
         window.open("general-laws/bangladesh-songbidhan.html");
     }
 
+    if (a === "তামাদি আইন, ১৯০৮") {
+        window.open("general-laws/tamadi-ayin-1908.html");
+    }
+
     if (a === "নারী ও শিশু নির্যাতন দমন আইন, ২০০০") {
         window.open("general-laws/nari-o-sisu-nirzaton-domon-ayin-2000.html");
     }
@@ -290,10 +294,6 @@ function openPage() {
         window.open("general-laws/bangladesh-xrin-salishi-ayin-1989.html");
     }
 
-    if (a === "তামাদি আইন, ১৯০৮") {
-        window.open("general-laws/tamadi-ayin-1908.html");
-    }
-
 
     // latest laws
     if (a === "পারিবারিক সহিংসতা (প্রতিরোধ ও সুরক্ষা) আইন, ২০১০") {
@@ -392,6 +392,10 @@ function openPage() {
 
     if (a === "The Limitation Act, 1908") {
         window.open("english-laws/the-limitation-act-1908.html");
+    }
+
+    if (a === "The Bangladesh Legal Practitioner's and Bar Council Order, 1972 (President's Order)") {
+        window.open("english-laws/the-bangladesh-legal-practitioner's-and-bar-council-order-1972.html");
     }
 
     if (a === "The Negotiable Instruments Act, 1881") {
